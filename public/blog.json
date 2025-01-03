@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "coverPicture": "https://covers.openlibrary.org/b/isbn/9780134190440-L.jpg",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB64mGtLBjXpuztJEXHQK0KYx6zccbTgwULw&s",
+    "postedDate": "2025-01-01",
+    "readingTime": 20,
+    "hashtag": "#Algorithms #ComputerScience"
+  },
+  {
+    "id": 2,
+    "coverPicture": "https://covers.openlibrary.org/b/isbn/9781449331818-L.jpg",
+    "title": "Learning Python",
+    "author": "Mark Lutz",
+    "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXP8OzG81bkMB0sFIUmm2VI3QStrp4u3d8g&s",
+    "postedDate": "2024-12-15",
+    "readingTime": 15,
+    "hashtag": "#Python #Programming"
+  },
+  {
+    "id": 3,
+    "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXpnlMw-KLM3inDOZtH8Ec9EGeqjwgHu0Iag&s",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRWecsGPe7UouTtcKJfIcSNjaluFwxihbZA&s",
+    "postedDate": "2024-11-30",
+    "readingTime": 25,
+    "hashtag": "#Java #SoftwareDevelopment"
+  },
+  {
+    "id": 4,
+    "coverPicture": "https://covers.openlibrary.org/b/isbn/9781491954249-L.jpg",
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell & Peter Norvig",
+    "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe8G-Jj6MOh1qED5s4Lf80zzrRk4tXbESFxQ&s",
+    "postedDate": "2024-10-20",
+    "readingTime": 30,
+    "hashtag": "#AI #MachineLearning"
+  },
+  {
+    "id": 5,
+    "coverPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7JcWs18Nn9-CiU5e_Ux7SuKv1K73rtXHQTQ&s",
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBFGLzNOLvEDTL2RUjjzYvV1D6NRz7Lg3DvQ&s",
+    "postedDate": "2024-09-05",
+    "readingTime": 18,
+    "hashtag": "#DesignPatterns #SoftwareEngineering"
+  }
+]
